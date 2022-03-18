@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Web App</title>
+    </head>
+
+    <body bgcolor="blue">
+        Nombre: $(miobjetoNombre)<br>
+        <!-- <a href="http//localhost:8084/usuario/listar">
+            <span style="color">
+
+            </span>
+        </a> -->
+
+        <br>
+        Ahora: $(ahora)
+        
+    </body>
+</html>

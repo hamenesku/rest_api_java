@@ -1,0 +1,9 @@
+package com.finalProject.project.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import curso.generation.demo.entidades.State;
+
+public interface StatesCRUDRepository extends CrudRepository<State, Integer> {
+
+}

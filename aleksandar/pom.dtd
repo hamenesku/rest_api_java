@@ -1,0 +1,7 @@
+<!ELEMENT dependency (project)>
+<!ELEMENT project (modelVersion,groupId,artifactId,version,name)>
+<!ELEMENT modelVersion (#PCDATA)>
+<!ELEMENT groupId (#PCDATA)>
+<!ELEMENT artifactId (#PCDATA)>
+<!ELEMENT version (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

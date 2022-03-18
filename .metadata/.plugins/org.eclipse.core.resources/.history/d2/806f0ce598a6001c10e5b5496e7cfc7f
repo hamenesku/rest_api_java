@@ -1,0 +1,46 @@
+package com.finalProject.project.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.finalProject.project.dao.UsersCRUDRepository;
+import com.finalProject.project.entity.Role;
+import com.finalProject.project.entity.User;
+
+
+
+@RestController
+@RequestMapping("user")
+public class UserRest {
+	private UsersCRUDRepository repository;
+	
+	
+//	@GetMapping
+	@RequestMapping(value="/get",method=RequestMethod.GET)
+	public ResponseEntity<User> crearODB() {
+			User usu = new User();
+			usu.setEnabled(1);
+			usu.setPassword("testPass");
+			usu.setUser("test");
+			Role rol = new Role();
+			rol.setId(1);
+			rol.setRol("Administrador");
+			
+			usu.setRole(rol);
+			
+			
+			return ResponseEntity.ok(usu);
+	}
+
+
+
+	public UsersCRUDRepository getRepository() {
+		return repository;
+	}
+
+	public void setRepository(UsersCRUDRepository repository) {
+		this.repository = repository;
+	}
+}
