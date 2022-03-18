@@ -63,20 +63,14 @@ public class UserRest {
 			@RequestParam("pass") String userPass) {
 		
 		ModelAndView modelAndView = new ModelAndView();
-		
+		modelAndView.setViewName("home");
 		
 		modelAndView.addObject("userName", userName);
 		modelAndView.addObject("login", userRepository.getLogin(userName, userPass));
 		System.out.println(userRepository.getLogin(userName, userPass));
 		User usr = userRepository.getLogin(userName, userPass);
-		
 		if (usr != null) {
-			System.out.println(usr.getId());
 			
-			modelAndView.setViewName("home");
-		} else {
-			return new ModelAndView("redirect:/myURL");
-//			modelAndView.setViewName("login");
 		}
 //		System.out.println(usr.getId());;
 		

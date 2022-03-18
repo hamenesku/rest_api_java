@@ -74,9 +74,6 @@ public class UserRest {
 			System.out.println(usr.getId());
 			
 			modelAndView.setViewName("home");
-		} else {
-			return new ModelAndView("redirect:/myURL");
-//			modelAndView.setViewName("login");
 		}
 //		System.out.println(usr.getId());;
 		

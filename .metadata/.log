@@ -6941,3 +6941,90 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.924
 !MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:43:21.880
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:43:21.904
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:43:21.924
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:43:21.926
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:43:21.950
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:45:17.172
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:45:17.178
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:45:17.185
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:45:17.187
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:45:17.209
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:49:02.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:49:02.457
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:49:02.462
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:49:02.465
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:49:02.487
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:50:42.425
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:50:42.432
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:50:42.437
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:50:42.440
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:50:42.464
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-18 12:53:34.824
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:58:03.125
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:58:03.135
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:58:03.140
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:58:03.142
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:58:03.162
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
