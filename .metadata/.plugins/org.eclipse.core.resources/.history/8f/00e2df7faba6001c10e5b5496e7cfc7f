@@ -1,0 +1,5 @@
+package com.finalProject.project.controller.staticObjects;
+
+public class LoginForm {
+
+}

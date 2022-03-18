@@ -6659,3 +6659,285 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:08:41.700
 !MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:14:16.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:14:16.978
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:14:16.982
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:14:16.984
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:14:17.008
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:19:58.757
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:19:58.767
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:19:58.772
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:19:58.775
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:19:58.811
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:31:13.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:31:13.216
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:31:13.221
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:31:13.223
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:31:13.261
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:44:05.194
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:44:05.206
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:44:05.213
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:44:05.216
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:44:05.238
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:46:58.425
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:46:58.429
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:46:58.437
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:46:58.439
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:46:58.468
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:49:46.885
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:49:46.893
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:49:46.900
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:49:46.903
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:49:46.933
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:51:05.470
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:51:05.477
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:51:05.483
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:51:05.485
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:51:05.509
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:59:57.465
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:59:57.472
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:59:57.478
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:59:57.480
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 11:59:57.503
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.594
+!MESSAGE classpath=8 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.604
+!MESSAGE buffering callback sts4.classpath.KBaIrxST aleksandar false 8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.607
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.613
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.619
+!MESSAGE buffering callback sts4.classpath.KBaIrxST demo false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.630
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.636
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.640
+!MESSAGE executing callback sts4.classpath.KBaIrxST 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:01:45.746
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-18 12:01:46.154
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-18 12:01:46.159
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-18 12:01:46.178
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:07:16.137
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:07:16.147
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:07:16.151
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:07:16.153
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:07:16.177
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:11:28.331
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:11:28.336
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:11:28.341
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:11:28.343
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:11:28.367
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:14:11.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:14:11.507
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:14:11.513
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:14:11.516
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:14:11.541
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:18:12.942
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:18:12.946
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:18:12.950
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:18:12.952
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:18:12.969
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:27:56.442
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:27:56.449
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:27:56.456
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:27:56.459
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:27:56.484
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:30:31.678
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:30:31.684
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:30:31.690
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:30:31.693
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:30:31.718
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:34:18.641
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:34:18.646
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:34:18.650
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:34:18.652
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:34:18.670
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.889
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.896
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.902
+!MESSAGE buffering callback sts4.classpath.KBaIrxST finalProject false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.905
+!MESSAGE executing callback sts4.classpath.KBaIrxST 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-18 12:35:12.924
+!MESSAGE executing callback sts4.classpath.KBaIrxST SUCCESS [done]
