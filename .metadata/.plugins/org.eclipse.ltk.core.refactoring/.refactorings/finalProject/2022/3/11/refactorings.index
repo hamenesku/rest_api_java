@@ -4,3 +4,5 @@
 1647592276880	Encapsulate field 'repository'
 1647595805033	Encapsulate field 'rolesRepository'
 1647596076299	Rename field 'repository'
+1647605594599	Rename method 'login'
+1647605611188	Rename method 'postLogin'

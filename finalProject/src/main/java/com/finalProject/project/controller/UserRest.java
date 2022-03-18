@@ -49,9 +49,37 @@ public class UserRest {
 	}
 	
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
-	public ModelAndView login() {
+	public ModelAndView getLogginPage() {
 		ModelAndView modelAndView = new ModelAndView();
 		modelAndView.setViewName("login");
+		
+		return modelAndView;
+	}
+	
+	
+	
+	@RequestMapping(value = "/login", method = RequestMethod.POST)
+//	public ModelAndView access(@RequestParam LoginForm usu) {
+	public ModelAndView postLoginData(
+			@RequestParam("user") String userName,
+			@RequestParam("pass") String userPass) {
+		
+		ModelAndView modelAndView = new ModelAndView();
+		
+		modelAndView.addObject("userName", userName);
+		modelAndView.addObject("login", userRepository.getLogin(userName, userPass));
+		System.out.println(userRepository.getLogin(userName, userPass));
+		User usr = userRepository.getLogin(userName, userPass);
+		
+		if (usr != null) {
+//			System.out.println(usr.getId());
+			return new ModelAndView("redirect:/user/access");
+			
+		} else {
+			
+			modelAndView.setViewName("login");
+		}
+//		System.out.println(usr.getId());;
 		
 		return modelAndView;
 	}
@@ -75,7 +103,7 @@ public class UserRest {
 			
 			modelAndView.setViewName("home");
 		} else {
-			return new ModelAndView("redirect:/myURL");
+			return new ModelAndView("redirect:/user/login");
 //			modelAndView.setViewName("login");
 		}
 //		System.out.println(usr.getId());;
@@ -84,6 +112,33 @@ public class UserRest {
 	}
 	
 	
+	@RequestMapping(value = "/register", method = RequestMethod.GET)
+	public ModelAndView geteRegisterPage() {
+		ModelAndView modelAndView = new ModelAndView();
+		modelAndView.setViewName("register");
+		
+		return modelAndView;
+	}
+	
+	@RequestMapping(value = "/register", method = RequestMethod.POST)
+	public void postRegisterData(
+			@RequestParam("user") String userName, 
+			@RequestParam("pass") String userPass) {
+		
+		
+		//Generates basic level Rol (lvl 3 => BasicUser)
+		Role rol = new Role();
+		rol.setId(3);
+		
+		User usu = new User();
+		
+		usu.setEnabled(1);
+		usu.setPassword(userPass);
+		usu.setUser(userName);
+		usu.setRole(rol);
+		
+		userRepository.save(usu);	
+	}
 	
 
 	public UsersCRUDRepository getRepository() {
