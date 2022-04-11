@@ -1,9 +1,0 @@
-package com.finalProject.project.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-import curso.generation.demo.entidades.Role;
-
-public interface RolesCRUDRepository extends CrudRepository<Role, Integer> {
-
-}
