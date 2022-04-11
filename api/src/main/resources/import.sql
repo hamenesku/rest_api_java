@@ -1,2 +1,2 @@
 INSERT INTO client (name, last_name, email, number, created_at) VALUES ("asdf", "asdf", "test@test.com", 22, "2022-04-11");
-INSERT INTO client (name, last_name, email, number, created_at) VALUES ("yrd", "ytest", "test@test.com", 22, "2022-04-11");
+INSERT INTO client (name, last_name, email, number, created_at) VALUES ("yrd", "ytest", "asdf@test.com", 22, "2022-04-11");
